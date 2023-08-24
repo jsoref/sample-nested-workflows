@@ -1,0 +1,8 @@
+name: 🎃
+on: workflow_call
+
+jobs:
+  first:
+    runs-on: ubuntu-latest
+    steps:
+    - run: 'true'
