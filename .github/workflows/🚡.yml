@@ -1,0 +1,6 @@
+on: workflow_dispatch
+name: 🏎️
+
+jobs:
+  first:
+    uses: jsoref/sample-nested-workflows/⛄%EF%B8%8F.yml@main
