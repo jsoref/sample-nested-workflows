@@ -1,0 +1,8 @@
+on: workflow_dispatch
+name: 🏃‍♀️
+
+jobs:
+  first:
+    runs-on: ubuntu-latest
+    steps:
+    - run: 'true'
