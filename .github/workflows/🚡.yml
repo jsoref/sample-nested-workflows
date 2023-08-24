@@ -3,4 +3,4 @@ name: 🏎️
 
 jobs:
   first:
-    uses: jsoref/sample-nested-workflows/.github/workflows/⛄%EF%B8%8F.yml@main
+    uses: jsoref/sample-nested-workflows/.github/workflows/🫎.yml@main
